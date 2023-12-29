@@ -1,0 +1,11 @@
+.box{
+    background-color: red;
+    width: 500px;
+    height: 300px; 
+    padding: 50px;
+    font-size: larger;
+    font-weight: normal;
+}
+.heading{
+    text-align: center;
+}
